@@ -1,0 +1,11 @@
+echo "# shop_rdf_react>> README.md
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jamilgha/shop_rdf_react.git
+git push -u origin main
+
+
+git remote add origin https://github.com/jamilgha/shop_rdf_react.git
+git branch -M main
+git push -u origin main
